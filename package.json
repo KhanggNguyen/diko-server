@@ -1,0 +1,28 @@
+{
+  "name": "projet-eapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "buffer": "^5.7.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "event-stream": "^4.0.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "iconv-lite": "^0.6.2",
+    "mongodb": "^3.6.3",
+    "request": "^2.88.2",
+    "urlencode": "^1.1.0",
+    "utf8": "^3.0.0"
+  }
+}
